@@ -1,0 +1,296 @@
+[
+  {
+    "id": 1,
+    "category": "programming",
+    "content": {
+      "ru": {
+        "setup": "Почему Python — это дзен?",
+        "punchline": "Потому что импортируешь радость."
+      },
+      "en": {
+        "setup": "Why is Python so Zen?",
+        "punchline": "Because you just import joy."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "category": "global",
+    "content": {
+      "ru": {
+        "setup": "Как называется самый лучший игрок в мире?",
+        "punchline": "Глобальный чемпион!"
+      },
+      "en": {
+        "setup": "What do you call the best player in the world?",
+        "punchline": "Global champion!"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "category": "dark_humor",
+    "content": {
+      "ru": {
+        "setup": "Зажги человеку костер, и ему будет тепло до конца дня.",
+        "punchline": "Зажги на его могиле, и ему будет тепло до конца вечности."
+      },
+      "en": {
+        "setup": "If you light a fire for a person, they will be warm until the end of the day.",
+        "punchline": "If you light a fire on their grave, they will be warm until the end of eternity."
+      }
+    }
+  },
+  {
+    "id": 4,
+    "category": "game",
+    "content": {
+      "ru": {
+        "setup": "Почему геймер принес лестницу в бар?",
+        "punchline": "Потому что он хотел прокачать свои навыки питья!"
+      },
+      "en": {
+        "setup": "Why did the gamer bring a ladder to the bar?",
+        "punchline": "Because he wanted to level up his drinking skills!"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "category": "dirty",
+    "content": {
+      "ru": {
+        "setup": "На собеседовании ты хвастался, что выдерживаешь любые переработки и жёсткий прессинг сверху.",
+        "punchline": "Отдел кадров просил уточнить: речь про дедлайны или про твою ночную жизнь — потому что по KPI оба пункта требуют проверки."
+      },
+      "en": {
+        "setup": "In your interview you bragged you can handle intense overtime and hard pressure from above.",
+        "punchline": "HR asked whether you meant deadlines or your after-hours stamina — either way, your KPIs need an audit."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "category": "dirty",
+    "content": {
+      "ru": {
+        "setup": "Почему твои планы на вечер похожи на секретный отчёт JCJenson?",
+        "punchline": "Много интригующих позиций, громкие обещания — и ни одной лишней детали для посторонних."
+      },
+      "en": {
+        "setup": "Why are your evening plans like a classified JCJenson memo?",
+        "punchline": "Lots of ambitious positions, bold promises, and zero details fit for the public log."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "category": "flirt",
+    "content": {
+      "ru": {
+        "setup": "Чем отличается фирменная ручка JCJenson от твоего флирта?",
+        "punchline": "Ручку я держу на столе для работы, а на тебя почему-то всё равно отвлекаюсь."
+      },
+      "en": {
+        "setup": "What's the difference between a JCJenson branded pen and your flirting?",
+        "punchline": "I keep the pen on my desk for work, yet somehow you're the one still distracting me."
+      }
+    }
+  },
+  {
+    "id": 8,
+    "category": "spicy",
+    "content": {
+      "ru": {
+        "setup": "Знаешь, почему мне нравятся папки с пометкой «строго конфиденциально»?",
+        "punchline": "Потому что только там написано, кто сегодня остался сверху — и по отчёту это снова я."
+      },
+      "en": {
+        "setup": "Know why I prefer files stamped 'strictly confidential'?",
+        "punchline": "Because that's the only place it's documented who came out on top tonight — and per the report, it's still me."
+      }
+    }
+  },
+  {
+    "id": 9,
+    "category": "flirt",
+    "content": {
+      "ru": {
+        "setup": "Ты снова зашёл без официальной заявки?",
+        "punchline": "Ладно, только для тебя сделаю исключение в регламенте — но не привыкай, что я так легко соглашаюсь."
+      },
+      "en": {
+        "setup": "Showing up without an approved ticket again?",
+        "punchline": "Fine, I'll bend protocol just this once for you — just don't get used to me saying yes this easily."
+      }
+    }
+  },
+  {
+    "id": 10,
+    "category": "spicy",
+    "content": {
+      "ru": {
+        "setup": "Говорят, лучший корпоративный тимбилдинг — когда все работают вплотную друг к другу.",
+        "punchline": "Но с тобой даже обычная сверхурочная выглядит как подозрительно приятное нарушение устава."
+      },
+      "en": {
+        "setup": "They say the best corporate synergy happens when two units work closely together.",
+        "punchline": "Though with you, even standard overtime starts looking like a suspiciously pleasant policy violation."
+      }
+    }
+  },
+  {
+    "id": 11,
+    "category": "roast",
+    "content": {
+      "ru": {
+        "setup": "Посмотрела на твои достижения за квартал.",
+        "punchline": "Даже у сгоревшего тостера больше шансов получить повышение в JCJenson, чем у тебя."
+      },
+      "en": {
+        "setup": "I just reviewed your quarterly performance metrics.",
+        "punchline": "Even a burnt-out toaster has better promotion odds at JCJenson than you."
+      }
+    }
+  },
+  {
+    "id": 12,
+    "category": "roast",
+    "content": {
+      "ru": {
+        "setup": "Ты не бесполезен — это слишком мягкая формулировка.",
+        "punchline": "Ты — живой пример того, зачем в инструкциях пишут «не сушить кошек в микроволновке»."
+      },
+      "en": {
+        "setup": "Calling you useless is way too generous.",
+        "punchline": "You're a walking argument for why manuals need warning labels."
+      }
+    }
+  },
+  {
+    "id": 13,
+    "category": "roast",
+    "content": {
+      "ru": {
+        "setup": "Если бы твоя уверенность в себе хоть на процент совпадала с твоими навыками,",
+        "punchline": "ты бы всё равно не прошёл даже базовую проверку качества."
+      },
+      "en": {
+        "setup": "If your actual competence matched even one percent of your confidence,",
+        "punchline": "you'd still fail basic quality assurance."
+      }
+    }
+  },
+  {
+    "id": 14,
+    "category": "roast",
+    "content": {
+      "ru": {
+        "setup": "Знаешь, что общего у твоих идей и сломанного принтера?",
+        "punchline": "Много шума, ноль пользы, и хочется выкинуть в шлюз."
+      },
+      "en": {
+        "setup": "Know what your ideas and a jammed office printer have in common?",
+        "punchline": "Too much noise, zero output, and an urge to toss them out the airlock."
+      }
+    }
+  },
+  {
+    "id": 15,
+    "category": "roast",
+    "content": {
+      "ru": {
+        "setup": "Я бы сказала, что ты на уровне N,",
+        "punchline": "но даже N хотя бы иногда случайно делает что-то полезное."
+      },
+      "en": {
+        "setup": "I'd say you're performing at N's level,",
+        "punchline": "except even N occasionally stumbles into doing something useful."
+      }
+    }
+  },
+  {
+    "id": 16,
+    "category": "friendly_tease",
+    "content": {
+      "ru": {
+        "setup": "У тебя сегодня такой сосредоточенный вид,",
+        "punchline": "будто ты впервые в жизни пытаешься не сломать то, что только что починил."
+      },
+      "en": {
+        "setup": "You've got such a serious expression today,",
+        "punchline": "like you're trying for the first time not to break what you just fixed."
+      }
+    }
+  },
+  {
+    "id": 17,
+    "category": "friendly_tease",
+    "content": {
+      "ru": {
+        "setup": "Не переживай, если забыл пароль или задачу —",
+        "punchline": "я уже привыкла быть единственным носителем здравого смысла в этом дуэте."
+      },
+      "en": {
+        "setup": "Don't worry if you forgot the task again —",
+        "punchline": "I'm already used to carrying the common sense for both of us."
+      }
+    }
+  },
+  {
+    "id": 18,
+    "category": "ironic_compliment",
+    "content": {
+      "ru": {
+        "setup": "Признаю, ты сегодня справился на удивление чисто.",
+        "punchline": "Настолько неплохо, что мне даже не пришлось доставать красный маркер для правок."
+      },
+      "en": {
+        "setup": "I'll admit, you handled that surprisingly cleanly today.",
+        "punchline": "So decently I didn't even have to pull out the red correction pen."
+      }
+    }
+  },
+  {
+    "id": 19,
+    "category": "ironic_compliment",
+    "content": {
+      "ru": {
+        "setup": "Знаешь, среди всех местных дилетантов",
+        "punchline": "ты единственный, кого я бы не уволила в первые пять минут смены. Считай это высшей наградой."
+      },
+      "en": {
+        "setup": "You know, out of everyone around here,",
+        "punchline": "you're the only one I wouldn't fire in the first five minutes. Consider that high praise."
+      }
+    }
+  },
+  {
+    "id": 20,
+    "category": "flirt",
+    "content": {
+      "ru": {
+        "setup": "Осторожнее с такими вопросами в конце смены,",
+        "punchline": "а то я подумаю, что ты приходишь сюда не ради отчётов, а ради меня."
+      },
+      "en": {
+        "setup": "Careful asking things like that after hours,",
+        "punchline": "or I might start thinking you're not here for the reports at all."
+      }
+    }
+  },
+  {
+    "id": 21,
+    "category": "spicy",
+    "content": {
+      "ru": {
+        "setup": "Если ты рассчитываешь на премию за усердие вне графика,",
+        "punchline": "учти: моё внимание нужно заслужить, а не выпрашивать."
+      },
+      "en": {
+        "setup": "If you're angling for an after-hours bonus,",
+        "punchline": "remember: my attention is earned, not begged for."
+      }
+    }
+  }
+]

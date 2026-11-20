@@ -1,0 +1,26 @@
+[
+ {
+  "name": "Википедия (ru)",
+  "api": "https://ru.wikipedia.org/w/api.php",
+  "trust": 0.9,
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "name": "Wikipedia (en)",
+  "api": "https://en.wikipedia.org/w/api.php",
+  "trust": 0.9,
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "name": "Minecraft Wiki",
+  "api": "https://minecraft.wiki/api.php",
+  "trust": 0.8,
+  "license": "см. лицензию на сайте"
+ },
+ {
+  "name": "Ready or Not wiki",
+  "api": "https://ready-or-not.fandom.com/wiki/Ready_or_Not_Wiki",
+  "trust": 0.9,
+  "license": "см. лицензию на сайте"
+ }
+]

@@ -1,0 +1,11 @@
+{
+  "name": "j-minecraft",
+  "version": "1.0.0",
+  "description": "J (Serial Designation J) as a Minecraft bot",
+  "main": "j_bot.js",
+  "scripts": { "start": "node j_bot.js" },
+  "dependencies": {
+    "mineflayer": "^4.23.0",
+    "mineflayer-pathfinder": "^2.4.5"
+  }
+}

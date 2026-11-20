@@ -1,0 +1,3 @@
+J is an experimental modular AI agent inspired by fictional autonomous AI systems. 
+The project explores personality modeling, dynamic emotional behavior, self-modeling, system-state awareness, long-term memory, and interaction across multiple digital environments. 
+Its architecture includes a central processing core, independent integration modules, and a dedicated launcher for system initialization and diagnostics.
