@@ -506,11 +506,6 @@
     "ненавижу": 1.0,
     "тебя": 5.0,
     "бесполезна": 1.0,
-    "сучка": 1.0,
-    "ругательство": 1.0,
-    "брань": 1.0,
-    "мат": 1.0,
-    "нецензурная": 1.0,
     "curse": 1.0,
     "swear": 1.0,
     "profanity": 1.0,
@@ -528,10 +523,6 @@
     "curses": 1.0,
     "swears": 1.0,
     "profanities": 1.0,
-    "fuck": 1.0,
-    "shit": 1.0,
-    "bitch": 1.0,
-    "asshole": 1.0,
     "stupid": 1.0,
     "idiot": 5.0,
     "shut": 5.0,
@@ -539,8 +530,6 @@
     "i": 5.0,
     "hate": 5.0,
     "you": 5.0,
-    "dumb": 5.0,
-    "dumbass": 1.0,
     "useless": 1.0,
     "bot": 4.0,
     "useles": 1.0,
@@ -978,8 +967,8 @@
  },
  "users": {
   "console": {
-   "name": "Адилет",
-   "lang": "ru",
+   "name": "Operative",
+   "lang": "en",
    "dev": true,
    "respect": 100,
    "patience": 100.0,
@@ -1014,294 +1003,5 @@
    "joke_w": {},
    "joke_seen": [],
    "places": []
-  },
-  "mc:N_pilot": {
-   "name": "Адилет",
-   "lang": "ru",
-   "dev": true,
-   "respect": 100,
-   "patience": 100,
-   "seen": 4,
-   "last_ts": 1793331495.9620407,
-   "taught": [],
-   "custom_q": [],
-   "stats": {
-    "rps": {
-     "w": 0,
-     "l": 0,
-     "d": 0,
-     "rounds": 0,
-     "hits": 0
-    },
-    "guess": {
-     "w": 0,
-     "l": 0
-    },
-    "quiz": {
-     "right": 0,
-     "wrong": 0
-    }
-   },
-   "rps_model": {
-    "o1": {},
-    "o2": {}
-   },
-   "rps_last": [],
-   "guess_n": 20,
-   "quiz_w": {},
-   "joke_w": {},
-   "joke_seen": [],
-   "places": []
-  },
-  "1036096386061566032": {
-   "name": "Адилет",
-   "lang": "ru",
-   "dev": false,
-   "respect": 99.0,
-   "patience": 100.0,
-   "seen": 223,
-   "last_ts": 1794983901.774895,
-   "taught": [
-    {
-     "q": "салам алейкум",
-     "a": "уалейкумассалам"
-    }
-   ],
-   "custom_q": [],
-   "stats": {
-    "rps": {
-     "w": 17,
-     "l": 20,
-     "d": 15,
-     "rounds": 52,
-     "hits": 18
-    },
-    "guess": {
-     "w": 1,
-     "l": 0
-    },
-    "quiz": {
-     "right": 0,
-     "wrong": 0
-    }
-   },
-   "rps_model": {
-    "o1": {
-     "scissors": {
-      "paper": 5,
-      "rock": 9,
-      "scissors": 8
-     },
-     "paper": {
-      "rock": 4,
-      "scissors": 4,
-      "paper": 2
-     },
-     "rock": {
-      "scissors": 9,
-      "rock": 6,
-      "paper": 4
-     }
-    },
-    "o2": {
-     "scissors|paper": {
-      "rock": 1,
-      "paper": 2,
-      "scissors": 1
-     },
-     "paper|rock": {
-      "scissors": 4
-     },
-     "rock|scissors": {
-      "rock": 3,
-      "scissors": 3,
-      "paper": 3
-     },
-     "scissors|rock": {
-      "rock": 5,
-      "paper": 3,
-      "scissors": 1
-     },
-     "rock|rock": {
-      "paper": 1,
-      "scissors": 4,
-      "rock": 1
-     },
-     "rock|paper": {
-      "scissors": 3,
-      "rock": 1
-     },
-     "paper|scissors": {
-      "rock": 3,
-      "scissors": 1
-     },
-     "scissors|scissors": {
-      "rock": 3,
-      "scissors": 4,
-      "paper": 1
-     },
-     "paper|paper": {
-      "rock": 2
-     }
-    }
-   },
-   "rps_last": [
-    "scissors",
-    "scissors",
-    "scissors",
-    "scissors",
-    "paper",
-    "scissors",
-    "rock",
-    "rock",
-    "scissors",
-    "paper"
-   ],
-   "guess_n": 30,
-   "quiz_w": {},
-   "joke_w": {
-    "n_roast": 1.5,
-    "corporate": 2.0,
-    "global": 1.5,
-    "game": 1.5,
-    "dirty": 1.5,
-    "roast": 1.5
-   },
-   "joke_seen": [
-    "L2",
-    "L1",
-    "F2",
-    "L4",
-    "F4",
-    "F10",
-    "F12"
-   ],
-   "respect_ts": 1794925758.37913,
-   "places": [],
-   "facts": {}
-  },
-  "gm:76561199078306951": {
-   "name": "N пилот",
-   "lang": "ru",
-   "respect": 100,
-   "dev": true,
-   "patience": 100,
-   "seen": 9,
-   "last_ts": 1793760988.5595345,
-   "taught": [],
-   "custom_q": [],
-   "stats": {
-    "rps": {
-     "w": 0,
-     "l": 0,
-     "d": 0,
-     "rounds": 0,
-     "hits": 0
-    },
-    "guess": {
-     "w": 0,
-     "l": 0
-    },
-    "quiz": {
-     "right": 0,
-     "wrong": 0
-    }
-   },
-   "rps_model": {
-    "o1": {},
-    "o2": {}
-   },
-   "rps_last": [],
-   "guess_n": 20,
-   "quiz_w": {},
-   "joke_w": {},
-   "joke_seen": [],
-   "syn": {},
-   "mc_last": {
-    "type": "follow"
-   },
-   "respect_ts": 1793760988.5544348,
-   "places": []
-  },
-  "ro:Игрок": {
-   "name": "Игрок",
-   "lang": "ru",
-   "respect": 100,
-   "dev": true,
-   "patience": 92.16294329563776,
-   "seen": 2,
-   "last_ts": 1793962899.6887279,
-   "taught": [],
-   "custom_q": [],
-   "stats": {
-    "rps": {
-     "w": 0,
-     "l": 0,
-     "d": 0,
-     "rounds": 0,
-     "hits": 0
-    },
-    "guess": {
-     "w": 0,
-     "l": 0
-    },
-    "quiz": {
-     "right": 0,
-     "wrong": 0
-    }
-   },
-   "rps_model": {
-    "o1": {},
-    "o2": {}
-   },
-   "rps_last": [],
-   "guess_n": 20,
-   "quiz_w": {},
-   "joke_w": {},
-   "joke_seen": [],
-   "respect_ts": 1793962889.9102573,
-   "places": []
-  },
-  "tg:5363297806": {
-   "name": "N Пилот",
-   "lang": "ru",
-   "respect": 100,
-   "dev": true,
-   "patience": 100.0,
-   "seen": 4,
-   "last_ts": 1794920499.8210351,
-   "taught": [],
-   "custom_q": [],
-   "places": [],
-   "facts": {},
-   "stats": {
-    "rps": {
-     "w": 0,
-     "l": 0,
-     "d": 0,
-     "rounds": 0,
-     "hits": 0
-    },
-    "guess": {
-     "w": 0,
-     "l": 0
-    },
-    "quiz": {
-     "right": 0,
-     "wrong": 0
-    }
-   },
-   "rps_model": {
-    "o1": {},
-    "o2": {}
-   },
-   "rps_last": [],
-   "guess_n": 20,
-   "quiz_w": {},
-   "joke_w": {},
-   "joke_seen": [],
-   "respect_ts": 1794920470.9186096
   }
- },
- "links": {}
-}
+ }
